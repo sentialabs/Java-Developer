@@ -1,0 +1,138 @@
+{
+  "P01": {
+    "id": "P1",
+    "label": "Sentia T-Shirt",
+	"type" : "gear",
+    "colors": {
+      "000_OR": {
+        "id": "OR",
+        "lable": "orange",
+        "rgb": "#f04d22",
+        "price": "29.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P01_000_OR",
+        "itemcode": "P01_000_OR"
+      },
+      "001_IB": {
+        "id": "IB",
+        "label": "Ice blue",
+        "rgb": "#5994c5",
+        "price": "30.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P01_001_IB",
+        "itemcode": "P01_001_IB"
+      },
+      "002_SP": {
+        "id": "SP",
+        "label": "Soft pink",
+        "rgb": "#e1a7b2",
+        "price": "31.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P01_002_SP",
+        "itemcode": "P01_002_SP"
+      }
+    }
+  },
+  "P02": {
+    "id": "P2",
+    "label": "Sentia Hoodie",
+	"type" : "gear",
+    "colors": {
+      "000_OR": {
+        "id": "OR",
+        "lable": "orange",
+        "rgb": "#f04d22",
+        "price": "129.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P02_000_OR",
+        "itemcode": "P02_000_OR"
+      },
+      "003_NB": {
+        "id": "NB",
+        "label": "Navy blue",
+        "rgb": "#5994c5",
+        "price": "130.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P02_003_NB",
+        "itemcode": "P02_003_NB"
+      },
+      "004_DR": {
+        "id": "DR",
+        "label": "Dark red",
+        "rgb": "#e1a7b2",
+        "price": "131.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P02_004_DR",
+        "itemcode": "P02_004_DR"
+      }
+    }
+  },
+  "P03": {
+    "id": "P3",
+    "label": "Sentia Mug",
+	"type" : "merchandise",
+    "colors": {
+      "005_YE": {
+        "id": "YE",
+        "label": "yellow",
+        "rgb": "#f04d22",
+        "price": "12.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P03_005_YE",
+        "itemcode": "P03_005_YE"
+      },
+      "003_NB": {
+        "id": "NB",
+        "label": "Navy blue",
+        "rgb": "#5994c5",
+        "price": "13.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P02_003_NB",
+        "itemcode": "P03_003_NB"
+      },
+      "006_PK": {
+        "id": "PK",
+        "label": "Pink",
+        "rgb": "#e1a7b2",
+        "price": "13.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P02_006_PK",
+        "itemcode": "P03_006_PK"
+      }
+    }
+  },
+  "P04": {
+    "id": "P4",
+    "label": "Sentia artbook",
+	"type" : "merchandise",
+    "colors": {
+      "005_YE": {
+        "id": "YE",
+        "label": "yellow",
+        "rgb": "#f04d22",
+        "price": "12.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P04_005_YE",
+        "itemcode": "P04_005_YE"
+      },
+      "003_NB": {
+        "id": "NB",
+        "label": "Navy blue",
+        "rgb": "#5994c5",
+        "price": "13.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P04_003_NB",
+        "itemcode": "P04_003_NB"
+      },
+      "006_PK": {
+        "id": "PK",
+        "label": "Pink",
+        "rgb": "#e1a7b2",
+        "price": "13.95",
+        "currency": "EUR",
+        "src": "https://api.sentia.com/v1/shop?code=P04_006_PK",
+        "itemcode": "P04_006_PK"
+      }
+    }
+  }
+}
