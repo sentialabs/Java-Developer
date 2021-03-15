@@ -5,7 +5,6 @@ The purpose of this repository is to provide an assignment that will highlight t
 ## Table of content
 - [General Information](#general-information)
 - [Assignment](#assignment)
-- [Deliverables](#deliverables)
 - [License](#license)
 
 ## General Information
