@@ -1,5 +1,5 @@
 # Sentia Recruitment
-Welcome to Sentia Recruitment
+Welcome to Sentia Recruitment!
 The purpose of this repository is to provide an assignment that will highlight the strengths required by a Java developer in our Java consultancy workforce. This assessment can be done in any capacity from Junior to Senior levels.
 
 ## Table of content
