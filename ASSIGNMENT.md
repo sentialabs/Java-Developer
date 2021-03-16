@@ -11,7 +11,7 @@ The purpose of this repository is to provide an assignment that will highlight t
 This assignment is meant to challenge the potential applicant in the complete spectrum of designing and implementing operational software in Java. Feel free to use any related technologies that you like, but write your code as if it were intended for use on a team, in a production environment. Please be aware of the fact that we are not only looking at the actual deliverables, but also the process followed to achieve these results. *The presentation of the results is of equal importance as the actual outcome.*
 
 ## Assignment
-Using the data, in products.json, create a simple Java application that exposes a REST API service with a single search endpoint that returns the product items that match the request.  
+Using the data, in [products.json](products.json), create a simple Java application that exposes a REST API service with a single search endpoint that returns the product items that match the request.  
 
 The endpoint should accept parameters that permit it to:
 -	Filter based on user provided field values. For example: It should be possible to filter only on products that contain the word "Hoodie" in the label or only products in the price range of 10-50, specific colors or other similar queries.
