@@ -21,4 +21,4 @@ The endpoint should accept parameters that permit it to:
 The API should conform to REST API standards as much as possible, including use of standard HTTP methods, HTTP headers and any other standard conventions.
 
 ## License
-Copyright © 2020, [Sentia](https://sentia.com). All rights reserved.
+Copyright © 2021, [Sentia](https://sentia.com). All rights reserved.
